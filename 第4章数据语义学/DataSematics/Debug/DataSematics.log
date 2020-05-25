@@ -1,0 +1,8 @@
+﻿  源.cpp
+e:\projectcode\第4章数据语义学\datasematics\源.cpp(50): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int MYACLS::* ”
+e:\projectcode\第4章数据语义学\datasematics\源.cpp(51): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int MYACLS::* ”
+e:\projectcode\第4章数据语义学\datasematics\源.cpp(55): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int MYACLS::* ”
+e:\projectcode\第4章数据语义学\datasematics\源.cpp(58): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int MYACLS::* ”
+e:\projectcode\第4章数据语义学\datasematics\源.cpp(81): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int MYACLS::* ”
+  DataSematics.vcxproj -> E:\ProjectCode\第4章数据语义学\Debug\DataSematics.exe
+  DataSematics.vcxproj -> E:\ProjectCode\第4章数据语义学\Debug\DataSematics.pdb (Full PDB)

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="A">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>5_9_1继承关系深度增加，开销一般也会增加_构造函数一层一层向前调用.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="A1">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>5_9_1继承关系深度增加，开销一般也会增加_构造函数一层一层向前调用.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="B">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>5_9_1继承关系深度增加，开销一般也会增加_构造函数一层一层向前调用.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C">
+    <Position X="2" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>5_9_1继承关系深度增加，开销一般也会增加_构造函数一层一层向前调用.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

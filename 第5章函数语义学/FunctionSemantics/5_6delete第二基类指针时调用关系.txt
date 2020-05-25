@@ -1,0 +1,13 @@
+delete pb2;
+
+00F230BD  call        edx 
+00F210AA  jmp         Derive::`vector deleting destructor' (0F22878h)  
+
+00F22878  sub         ecx,4   调整this指针,指向了Derive对象首地址 **********************
+00F2287B  jmp         Derive::`vector deleting destructor' (0F210D2h) 
+00F210D2  jmp         Derive::`scalar deleting destructor' (0F22970h)
+00F22996  call          Derive::~Derive (0F2141Ah)  
+00F2141A  jmp         Derive::~Derive (0F22580h)  
+    00F225EC  call         Base2::~Base2 (0F212DFh)
+    00F225F4  call         Base::~Base (0F212E9h) 
+00F229A9  call        operator delete (0F212EEh) 
